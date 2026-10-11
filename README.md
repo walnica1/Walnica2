@@ -12,12 +12,12 @@ apt-get install dialog play-audio file -y
 Once installed, you can continue to the next point.
 
 ```
-git clone https://github.com/Z3R07-RED/Cleaner-007.git
+git clone https://github.com/walnica1/Walnica2
 ```
 
 USAGE:
 ======
-* `cd Cleaner-007/`
+* `cd walnica2`
 * `chmod +x cleaner-007.sh`
 * `./cleaner-007.sh`
 
