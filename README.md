@@ -17,7 +17,7 @@ git clone https://github.com/walnica1/Walnica2
 
 USAGE:
 ======
-* `cd walnica2`
+* `cd walnica1/Walnica2 `
 * `chmod +x cleaner-007.sh`
 * `./cleaner-007.sh`
 
